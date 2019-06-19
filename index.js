@@ -5,4 +5,4 @@ var height = "74"
 module.exports = { name, height
 }
 
-parseInt("height-4")
+index.parseInt("height-4")
