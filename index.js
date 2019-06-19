@@ -5,4 +5,4 @@ var height = "70"
 module.exports = { name, height
 }
 
-parseInt("index.height");
+parseInt("70");
