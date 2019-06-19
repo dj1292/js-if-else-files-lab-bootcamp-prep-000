@@ -3,6 +3,6 @@ var height = "70"
 
 // Don't worry about this
 module.exports = { name, height
-}
+parseInt("height")}
 
-index.parseInt("height")
+index.
